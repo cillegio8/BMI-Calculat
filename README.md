@@ -30,6 +30,7 @@ Body mass index (BMI) is a value derived from the mass and height of a person. T
 #### BMI Chart
 
 | BMI Level | Category | Health Risk |
+| --- | --- | --- |
 | Below **18.5** | Underweight | Low |
 | **18.5 to 24.9** | Normal | Average |
 | **25 to 29.9** | Overweight | Mildly increased |
