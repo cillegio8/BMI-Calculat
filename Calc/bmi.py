@@ -3,6 +3,7 @@ from metric import *
 
 
 def main():
+    print("\n==========BMI CALCULATOR==========")
     print("\nWelcome to the BMI calculator! To start, enter your preferred unit system below.\n")
     print("1. For Metric system, type Metric or just type M!")
     print("2. For Imperial system, type Imperial or just type I!\n\n") 
