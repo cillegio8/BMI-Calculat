@@ -1,6 +1,6 @@
 # BMI Calculator using Python
 
-This repository consists of a simple yet efficient BMI calculator scripted using Python.
+This repository consists of a simple yet efficient BMI calculator scripted using Python and C.
 
 ## Table of content
 
@@ -13,13 +13,10 @@ This repository consists of a simple yet efficient BMI calculator scripted using
 
 ## Repo Guide
 
-This repo is small and crisp. All the files are available in **Calc** folder of the repo. Fiel details are listed below:
-
-| File name | Description |
+| Folder name | Description |
 | --- | --- |
-| metric.py | Python script defining the BMI calculations and more in **metric unit system**. |
-| imperial.py | Python script defining BMI calculation and more in **imperial unit system**. |
-| bmi.py | Final and executable python script. |
+| Clac_C | C program for calculating BMI in both **Imperial** as well as **Metric** system. |
+| Calc_Python | Python script for calculating BMI **Imperial** as well as **Metric** system. |
 
 ## Summary
 
@@ -47,17 +44,8 @@ Salient features of this calculator:
 3. Provide **health risk data** depending on your BMI.
 4. Provides **approximate weight to be lost** in order to attain a **normal BMI**.
 
-## Running the calculator
-
-1. To run this calculator, you need to have **Python** installed on your device. If you don't have python installed on your device, visit [python.org](https://www.python.org), click on **downloads** and download the latest version of python.
-
-2. Downlaod zip file of this repository to your device and unzip the file and copy the unzipped folder to a suitable position on your device.
-
-3. Now, open **Command Prompt (CMD)/Terminal/Power Shell** , navigate to the unzipped folder and run `python bmi.py` or `python3 bmi.py`. 
-
-4. If you recieve following error: *No such file or directory*, run `cd calc` and then run `python bmi.py` or `python3 bmi.py`.
-
 ## Resources
 
 1. **Python:** [python.org](https://www.python.org)
-2. **BMI:** [Learn more about BMI.](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index)
+2. **C:** [Intro to C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
+3. **BMI:** [Learn more about BMI.](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index)
