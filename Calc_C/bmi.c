@@ -1,3 +1,13 @@
+/*
+---------BMI CALCULATOR----------
+
+The program below is a BMI calculator. It computes BMI in both Imperial as well as Metric unit system.
+This program takes you weight and height as input and responds with following data:
+1. Your BMI calculated as per formula prescribed by WHO.
+2. Your weight classification and health risk.
+3. Amount of weight to be lost by a person in order to acheive healthy weight.
+*/
+
 #include <stdio.h>
 #include <math.h>
 
